@@ -3,7 +3,7 @@ Aula inicial com utilização do Bootstrap - Construindo páginas para internet 
 
   1- Introdução ao Bootstrap
   
-    ° CAprendendo sobre o framework Bootstrap
+    ° Cprendendo sobre o framework Bootstrap
     ° Criando lista de navegação com imagens em seu projeto
     ° Aprendendo a utilizar o Bootstrap na sua página WEB  
    
